@@ -5,6 +5,22 @@ Template: "0bed31d6-6781-4900-bbc0-b0196c2867c2"
 Path: /sitecore/content/hztl/hackathon/Home
 BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{E09870FF-527B-4F2D-89E0-A0D936479E3B}"
+          s:ds="{4B37D3CB-4125-4DAA-AD95-6CF2DB5E00B5}"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{F558BEC9-C602-4D7A-B9A1-D0411C946EA4}"
@@ -13,6 +29,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20240312T184502Z
@@ -29,7 +48,7 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a20f2c22-2910-49b0-aff5-370cecdbc75d"
+      Value: "a8995fbb-84bb-407d-992a-41bdbcb4cd46"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -39,4 +58,4 @@ Languages:
       Value: Hackathon
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240312T193117Z
+      Value: 20240313T192949Z

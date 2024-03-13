@@ -18,13 +18,13 @@
                 "rules": [
                     {
                         "path": "/home",
-                        "scope": "SingleItem",
-                        "allowedPushOperations": "CreateOnly"
+                        "scope": "ItemAndDescendants",
+                        "allowedPushOperations": "CreateUpdateAndDelete"
                     },
                     {
                         "path": "/Data",
-                        "scope": "SingleItem",
-                        "allowedPushOperations": "CreateOnly"
+                        "scope": "ItemAndDescendants",
+                        "allowedPushOperations": "CreateUpdateAndDelete"
                     },
                     {
                         "path": "/Media",
