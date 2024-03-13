@@ -7,6 +7,15 @@ const publicUrl = jssConfig.publicUrl;
  * @type {import('next').NextConfig}
  */
 const nextConfig = {
+  images: {
+    domains: [
+      'hackathonsc.dev.local',
+      'hackathon-eta-six.vercel.app',
+      'healthy-briefly-pig.ngrok-free.app',
+    ],
+    // formats: ['image/svg+xml', 'image/webp'],
+    dangerouslyAllowSVG: true,
+  },
   // Set assetPrefix to our public URL
   assetPrefix: publicUrl,
 
