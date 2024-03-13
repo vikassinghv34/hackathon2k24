@@ -1,0 +1,14 @@
+{
+    "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "RenderingHost",
+    "items": {
+        "includes": [
+            {
+                "name": "default-rendering-host",
+                "path": "/sitecore/system/Settings/Services/Rendering Hosts/Default",
+                "scope": "SingleItem",
+                "allowedPushOperations": "CreateOnly"
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "APIKey",
+    "items": {
+        "includes": [
+            {
+                "name": "default-api-key",
+                "path": "/sitecore/system/Settings/Services/API Keys/apikey",
+                "scope": "SingleItem",
+                "allowedPushOperations": "CreateOnly"
+            }
+        ]
+    }
+}

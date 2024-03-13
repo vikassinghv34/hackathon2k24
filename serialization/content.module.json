@@ -1,0 +1,53 @@
+{
+    "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Content",
+    "references": [
+        "Templates"
+    ],
+    "items": {
+        "includes": [
+            {
+                "name": "tenant",
+                "path": "/sitecore/content/hztl",
+                "scope": "SingleItem",
+                "allowedPushOperations": "CreateOnly"
+            },
+            {
+                "name": "site-hackathon",
+                "path": "/sitecore/content/hztl/hackathon",
+                "rules": [
+                    {
+                        "path": "/home",
+                        "scope": "SingleItem",
+                        "allowedPushOperations": "CreateOnly"
+                    },
+                    {
+                        "path": "/Data",
+                        "scope": "SingleItem",
+                        "allowedPushOperations": "CreateOnly"
+                    },
+                    {
+                        "path": "/Media",
+                        "scope": "SingleItem",
+                        "allowedPushOperations": "CreateOnly"
+                    },
+                    {
+                        "path": "/Dictionary",
+                        "scope": "ItemAndDescendants",
+                        "allowedPushOperations": "CreateUpdateAndDelete"
+                    },
+                    {
+                        "path": "/Presentation",
+                        "scope": "ItemAndDescendants",
+                        "allowedPushOperations": "CreateUpdateAndDelete"
+                    },
+                    {
+                        "path": "/Settings",
+                        "scope": "ItemAndDescendants",
+                        "allowedPushOperations": "CreateOnly"
+                    }
+                ]
+            }
+        ]
+    }
+}

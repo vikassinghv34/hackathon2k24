@@ -1,0 +1,16 @@
+{
+    "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "TemplatesBranchesFeature",
+    "references": [
+        "Templates"
+    ],
+    "items": {
+        "includes": [
+            {
+                "name": "templates-branches-feature",
+                "path": "/sitecore/templates/Branches/Feature/Hackathon",
+                "scope": "ItemAndDescendants"
+            }
+        ]
+    }
+}

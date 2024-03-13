@@ -1,0 +1,14 @@
+{
+    "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "MediaLibrary",
+    "items": {
+        "includes": [
+            {
+                "name": "media-library-petsuppliesplus",
+                "path": "/sitecore/media library/Project/Hackathon",
+                "scope": "singleItem",
+                "allowedPushOperations": "CreateOnly"
+            }
+        ]
+    }
+}

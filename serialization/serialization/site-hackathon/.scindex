@@ -1,0 +1,757 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Placeholder Settings.yml
+ID: "aaf33e91-7fd1-4a89-8951-b2f50d747cc6"
+Parent: "f0f43c51-8838-4c35-9563-85b4d9a16bf8"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: /sitecore/content/hztl/hackathon/Presentation/Placeholder Settings
+Signature: pWxiLuRVfHSaarhmuo1jAS1HS/e89hP4wrGt9/CCWPc=
+Modified: 638459345235727405
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon.yml
+ID: "e7c9a104-97aa-43cf-8195-6cab5eef944b"
+Parent: "bb20b2ed-4353-493c-8dfa-dec787455285"
+Template: "9ec765ef-e3a5-4a6d-a8cf-820bd63a3bea"
+Path: /sitecore/content/hztl/hackathon
+Signature: hZhjI+HCsce08lAXMrmUtma7r3YYnGKzoY5koYjPgEw=
+Modified: 638459345235284088
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Dictionary.yml
+ID: "ad387cd0-2973-40dc-982e-ba2cccc2accd"
+Parent: "e7c9a104-97aa-43cf-8195-6cab5eef944b"
+Template: "0a2847e6-9885-450b-b61e-f9e6528480ef"
+Path: /sitecore/content/hztl/hackathon/Dictionary
+Signature: cgdK0K8gIrX0BMKGn4OidCb3iLrb5lE4Ba+kA87h6yU=
+Modified: 638459345235467857
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Settings\Shared Sites Settings.yml
+ID: "eea28738-0ad9-4423-be64-bce827859e30"
+Parent: "a928dd6a-531a-4d06-aade-2e8a19d70824"
+Template: "c14bf746-030f-4e59-8594-395f6d299e61"
+Path: /sitecore/content/hztl/hackathon/Settings/Shared Sites Settings
+Signature: wBt4SE8er6DWAUFoQjE21o3EH6YSrT0+GMhXaWhBgDo=
+Modified: 638459345235906154
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Media.yml
+ID: "3de58959-ff67-4251-a1ce-8bb50db10194"
+Parent: "e7c9a104-97aa-43cf-8195-6cab5eef944b"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: /sitecore/content/hztl/hackathon/Media
+Signature: 6PuMHi1DM096Sm5k1RjHy74f3VJxRj23Oz7MJhcxLPk=
+Modified: 638459345235374674
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation.yml
+ID: "f0f43c51-8838-4c35-9563-85b4d9a16bf8"
+Parent: "e7c9a104-97aa-43cf-8195-6cab5eef944b"
+Template: "0a70fa73-8923-4a6e-abf3-4134f25f3221"
+Path: /sitecore/content/hztl/hackathon/Presentation
+Signature: BHyktc8xOxJJ+0fd3VLZx0CF/LnOaEWoShBP5E5aBWQ=
+Modified: 638459345235503142
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Available Renderings\Media.yml
+ID: "cf84ab15-6db2-4b10-8c12-13b5e5242251"
+Parent: "096078ae-cf63-4696-bf96-f63d307c9dd4"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/hztl/hackathon/Presentation/Available Renderings/Media
+Signature: aMsUfchRfFcWEp7fGyOwb33ApmfwZK7ERdkZZxCpFJM=
+Modified: 638459345236051318
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Headless Variants.yml
+ID: "17dd1702-586e-4385-9bd3-3916920c95aa"
+Parent: "f0f43c51-8838-4c35-9563-85b4d9a16bf8"
+Template: "da26c636-96e1-45e4-88d6-3fcec70d5699"
+Path: /sitecore/content/hztl/hackathon/Presentation/Headless Variants
+Signature: gRk0Qn7Ca/eMWO5LxGhxbCPFZmrT9C97Dh4sbmXPuow=
+Modified: 638459345235610748
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Page Branches.yml
+ID: "6a8ae0e3-36ed-4d40-a7fa-992316137a90"
+Parent: "f0f43c51-8838-4c35-9563-85b4d9a16bf8"
+Template: "fbc802e5-4b9e-480f-93da-3f2a80cae5cb"
+Path: /sitecore/content/hztl/hackathon/Presentation/Page Branches
+Signature: mCZDOvhGLpJudmMxBeEs00NoeuE6sWLiAgAhjQqupFA=
+Modified: 638459345235645905
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Available Renderings\Page Structure.yml
+ID: "3338911a-e688-4a4f-bf4b-71476f95f1a8"
+Parent: "096078ae-cf63-4696-bf96-f63d307c9dd4"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/hztl/hackathon/Presentation/Available Renderings/Page Structure
+Signature: 2gYAEoHM4MltgNNkO3//KiNFgI2Z5vsrIZl8ShLGjZk=
+Modified: 638459345236170050
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Partial Designs.yml
+ID: "0f839d5a-b37e-4765-9203-7249415ba420"
+Parent: "f0f43c51-8838-4c35-9563-85b4d9a16bf8"
+Template: "ece0c6c2-50ef-4972-8505-282cd1d27d52"
+Path: /sitecore/content/hztl/hackathon/Presentation/Partial Designs
+Signature: kwvCyfgtgN4MjFDQB4nC6VczYEhL3VVi+RwSw8Yvst0=
+Modified: 638459345235727405
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Page Designs.yml
+ID: "718c5dff-105c-47dc-8cfc-6d2d983d0dea"
+Parent: "f0f43c51-8838-4c35-9563-85b4d9a16bf8"
+Template: "e27e3cb7-faa1-42ab-819d-d256647111a0"
+Path: /sitecore/content/hztl/hackathon/Presentation/Page Designs
+Signature: 56aqvHwRVRFrMYHg1xrieObcIPV7nZC5kewRT7OYkw8=
+Modified: 638459345235694032
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Headless Variants\Image.yml
+ID: "0ea72dfc-7dea-468c-aa82-333ed1065652"
+Parent: "17dd1702-586e-4385-9bd3-3916920c95aa"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/hztl/hackathon/Presentation/Headless Variants/Image
+Signature: XMN3coFc4koiYsD2FRJjx8aXcQWDuQftKNYfLZ4IFBw=
+Modified: 638459345236222719
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Headless Variants\RichText.yml
+ID: "3233af1a-acf8-4fdf-835f-134ac407af86"
+Parent: "17dd1702-586e-4385-9bd3-3916920c95aa"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/hztl/hackathon/Presentation/Headless Variants/RichText
+Signature: lzM1BMFQDe1i2Hwc2yZuIir3O/VCjhunY0S9Qx3eChE=
+Modified: 638459345236390793
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles.yml
+ID: "b11d3ea7-8b5f-4f66-b015-d75492667c4b"
+Parent: "f0f43c51-8838-4c35-9563-85b4d9a16bf8"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles
+Signature: 1zDQalxLcPYTlo7pa3XzK9Oeh0LcKVLopHUp+QRTc4g=
+Modified: 638459345235821367
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Headless Variants\Navigation.yml
+ID: "782aa499-b554-4d9b-9dc0-f97b127344cf"
+Parent: "17dd1702-586e-4385-9bd3-3916920c95aa"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/hztl/hackathon/Presentation/Headless Variants/Navigation
+Signature: 48O47SOYiu9DRU7/6iLRJn6+ZMCaIMcaiYCavT5wRIA=
+Modified: 638459345236293778
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Background layout.yml
+ID: "da853197-9fa3-42b6-8521-6716436acece"
+Parent: "b11d3ea7-8b5f-4f66-b015-d75492667c4b"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Background layout
+Signature: csCygopszzYKw10J3iHwSEUELeZ/YWDus+u5Vtdl4WQ=
+Modified: 638459345236639233
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Headless Variants\Promo.yml
+ID: "a0641ba2-3f96-4e11-8aa2-cc5e04612aa4"
+Parent: "17dd1702-586e-4385-9bd3-3916920c95aa"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/hztl/hackathon/Presentation/Headless Variants/Promo
+Signature: 9Yc8kWov+0HyzkTmRf5L/3h427LcsgWAUbG+nb8qEak=
+Modified: 638459345236353892
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Add highlight.yml
+ID: "3a706c32-0284-4c57-bf97-5da6b9eb8d75"
+Parent: "b11d3ea7-8b5f-4f66-b015-d75492667c4b"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Add highlight
+Signature: yViFpp/GuZ+qS45dzvcLAGpPxtM+u3E5LJ7bU9nw1lU=
+Modified: 638459345236572116
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Content alignment.yml
+ID: "01ef5a80-c83a-4521-84a8-da1a72457cc3"
+Parent: "b11d3ea7-8b5f-4f66-b015-d75492667c4b"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Content alignment
+Signature: xEOeusnF4atrS0iv3fP5qT5q8DggzIDl7NACADPdE5U=
+Modified: 638459345236607260
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Background color.yml
+ID: "19bd75de-95a2-47b6-831d-9a4d8fc6a448"
+Parent: "b11d3ea7-8b5f-4f66-b015-d75492667c4b"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Background color
+Signature: VMPcmbX57afQq73e3AEE+PSOd3cYWedaiKHcBMIeJfc=
+Modified: 638459345236639233
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Common.yml
+ID: "5307f816-36d8-4ee1-9d9f-09d6abe7f653"
+Parent: "b11d3ea7-8b5f-4f66-b015-d75492667c4b"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Common
+Signature: M27Cmr3+r1BqZdQj3WGFHptzloW00kiKIcquq4VzF0w=
+Modified: 638459345236898213
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Settings\Site Grouping\hackathon.yml
+ID: "943caf15-9775-4e51-9476-a3109a317eed"
+Parent: "843e3452-40cc-4270-95c2-5f07304bce45"
+Template: "e46f3af2-39fa-4866-a157-7017c4b2a40c"
+Path: /sitecore/content/hztl/hackathon/Settings/Site Grouping/hackathon
+Signature: 8LPG0PyAXjn2Ko2/AakQgKAgVALVgiTuHk54gKtMLwM=
+Modified: 638459345237029482
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Container.yml
+ID: "75bab948-a613-40a8-9177-6fc43855ce23"
+Parent: "b11d3ea7-8b5f-4f66-b015-d75492667c4b"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Container
+Signature: 2WUjk6aYwaPKLlRrlBhS/XiTeMNHaoIdWmhb+j6ZZmg=
+Modified: 638459345236938220
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Image.yml
+ID: "336d2b31-720e-41aa-89cc-fabb8326c9b4"
+Parent: "b11d3ea7-8b5f-4f66-b015-d75492667c4b"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Image
+Signature: LFSl9PxT2rHkXAifg5zIAg5Mk45LvZdLgRhUBNoJ150=
+Modified: 638459345236857145
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Headless Variants\PageContent\Default.yml
+ID: "9870b826-bc01-4b14-8910-92a967d9d128"
+Parent: "7cea01c6-03fa-4ffb-8354-63c748198c2e"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/hztl/hackathon/Presentation/Headless Variants/PageContent/Default
+Signature: ZYMIty6q7k3ihrvI4dLaYQAnTYgxjB/i5amu+H/gzLA=
+Modified: 638459345237222854
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Navigation.yml
+ID: "54dabbda-87ed-4c12-8bbf-c363b1bf0e35"
+Parent: "b11d3ea7-8b5f-4f66-b015-d75492667c4b"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Navigation
+Signature: uHDSZugUG4JsPPHAPokJGQ5hoVZO5p9UjULMP5HFePE=
+Modified: 638459345236702088
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Link list.yml
+ID: "9f645215-be69-4f26-9246-bf70802e6b7c"
+Parent: "b11d3ea7-8b5f-4f66-b015-d75492667c4b"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Link list
+Signature: KN/XEYzaIDVJCxHESXhhwNq9pdvpfr9vEbF5S6n8R90=
+Modified: 638459345236702088
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Headless Variants\Promo\Default.yml
+ID: "166e8c6c-f45f-4ea6-8cc3-f056f7990ef7"
+Parent: "a0641ba2-3f96-4e11-8aa2-cc5e04612aa4"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/hztl/hackathon/Presentation/Headless Variants/Promo/Default
+Signature: 9LdHFi845sE9k0hv5iXuuiIl9TBntn7n/fgsH0vYMLw=
+Modified: 638459345237338439
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Promo.yml
+ID: "89ddb866-425c-4ea7-aa62-0a025aa75ecd"
+Parent: "b11d3ea7-8b5f-4f66-b015-d75492667c4b"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Promo
+Signature: JNL54CvfrVFZjvk16+2l9cIXkAzHpDMRLEgWd/TkWHE=
+Modified: 638459345236817157
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Headless Variants\LinkList\Default.yml
+ID: "6e844130-7be1-452b-b487-4045e164d28a"
+Parent: "a5b1c688-14d3-4920-9b3c-13485f8332d0"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/hztl/hackathon/Presentation/Headless Variants/LinkList/Default
+Signature: 7DQwmd3dnKfpUP9Uz5Itkf0OE08nHnoUuiSTBBy9we4=
+Modified: 638459345237142241
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Add highlight\Highlighted bottom.yml
+ID: "4271068a-997b-4533-9d03-9bb613dc24ad"
+Parent: "3a706c32-0284-4c57-bf97-5da6b9eb8d75"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Add highlight/Highlighted bottom
+Signature: ex8bQYNRRwNKmCexg/WfF3rXuw4XJ1o9YE77Q9nOFu8=
+Modified: 638459345237864948
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Headless Variants\RichText\Default.yml
+ID: "52b5ae91-3e69-45a4-afa2-bb24029a31c7"
+Parent: "3233af1a-acf8-4fdf-835f-134ac407af86"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/hztl/hackathon/Presentation/Headless Variants/RichText/Default
+Signature: ynK9fvKegjVknLWlchUXbPD0mfwEGpbXrO1YKaEz3yo=
+Modified: 638459345237397469
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Headless Variants\Navigation\Default.yml
+ID: "1541df51-5f7f-405d-8e72-eec57f2cf460"
+Parent: "782aa499-b554-4d9b-9dc0-f97b127344cf"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/hztl/hackathon/Presentation/Headless Variants/Navigation/Default
+Signature: QlQKyzMBn2GeV/p86gx4/OVc7deBPdFif9g8BDr/jz0=
+Modified: 638459345237222854
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Add highlight\Highlighted left.yml
+ID: "ab82ddb1-f0ba-423a-a61e-2a966b3f5350"
+Parent: "3a706c32-0284-4c57-bf97-5da6b9eb8d75"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Add highlight/Highlighted left
+Signature: 3E1gRQIxpn+dLGhm97cddfHJ5AIu5OvKfGAczmtj7K4=
+Modified: 638459345237702628
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Headless Variants\Title\Default.yml
+ID: "021eed52-b4a9-4443-9c5f-92f32ee602bb"
+Parent: "18126b42-275a-49e2-a184-e16875c5805d"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/hztl/hackathon/Presentation/Headless Variants/Title/Default
+Signature: GSwBWgd7aa588psAjqvp2RTW4cKhLWzk7NP5r1DJQd4=
+Modified: 638459345237497622
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Add highlight\Highlighted right.yml
+ID: "58359e88-2daa-46c1-b47d-13148dbf6c83"
+Parent: "3a706c32-0284-4c57-bf97-5da6b9eb8d75"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Add highlight/Highlighted right
+Signature: iK+RBAFcLNcaylz/uF9tRCgkotBVVc+e9gc9aFS6hWM=
+Modified: 638459345237702628
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Background color\Gray background.yml
+ID: "2fe853e7-bc8f-4fe8-ab9d-a0d0765b1948"
+Parent: "19bd75de-95a2-47b6-831d-9a4d8fc6a448"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Background color/Gray background
+Signature: cqSbmJ1jWsKgnClspft+SHPN/qv9pijL8uPz8sn6s1c=
+Modified: 638459345238215398
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Background color\Color background.yml
+ID: "ac0764e9-793d-4d73-a73f-4b1d70ca7c3a"
+Parent: "19bd75de-95a2-47b6-831d-9a4d8fc6a448"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Background color/Color background
+Signature: 4SOMK1PZKOTE16EnfgBv7IFY8UNfiCn8PH4YYGLAieg=
+Modified: 638459345238113902
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Add highlight\Highlighted top.yml
+ID: "25a36801-b405-4046-af2e-4d5335f5b4e3"
+Parent: "3a706c32-0284-4c57-bf97-5da6b9eb8d75"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Add highlight/Highlighted top
+Signature: UXf311VwI+PvOI+WoKzCUJKxcp5CUL3477YN6Et2beM=
+Modified: 638459345237816571
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Background layout\cover-background.yml
+ID: "9264e612-93ed-411b-8b8b-e32df2823790"
+Parent: "da853197-9fa3-42b6-8521-6716436acece"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/hztl/hackathon/Presentation/Styles/Background layout/cover-background"
+Signature: 6Isi8nx0weKijvr8FMcX2kP0OuKIFqFmDmd88cjlDvQ=
+Modified: 638459345238266736
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Background color\Dark background.yml
+ID: "85dbe7b5-3b40-40e6-9c09-1ea8e78112ee"
+Parent: "19bd75de-95a2-47b6-831d-9a4d8fc6a448"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Background color/Dark background
+Signature: BT1lT+eJxg+QIHz/IXoKJf8pZ1C42YwyqTUT+b7bIXw=
+Modified: 638459345238168101
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Background layout\fix-background.yml
+ID: "150d82a0-0b5c-49b8-bde0-7e1886ba3325"
+Parent: "da853197-9fa3-42b6-8521-6716436acece"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/hztl/hackathon/Presentation/Styles/Background layout/fix-background"
+Signature: BCt3qTQ1BDpEVr4prpCzuecwE3W/W6lZ13Wd02VU3+c=
+Modified: 638459345238329092
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Navigation\navigation-mobile.yml
+ID: "d3819691-c1c7-4d11-bcad-25fa02c141a7"
+Parent: "54dabbda-87ed-4c12-8bbf-c363b1bf0e35"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/hztl/hackathon/Presentation/Styles/Navigation/navigation-mobile"
+Signature: 6YJxyL9F3qcQb1qKt/B8dSwYfZrx+yxEoT7AppCMbdU=
+Modified: 638459345238571628
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Common\Boxed.yml
+ID: "4f9aebfc-aa57-4fa3-afd2-1402bb918d6f"
+Parent: "5307f816-36d8-4ee1-9d9f-09d6abe7f653"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Common/Boxed
+Signature: FVAfGSDC2c0rZ1t2KA2kOiwB3CBxBT77hYd+fK3MRdI=
+Modified: 638459345239265034
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Background layout\parallax-background.yml
+ID: "8590d536-c050-46b1-b14f-693e2206ecd1"
+Parent: "da853197-9fa3-42b6-8521-6716436acece"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/hztl/hackathon/Presentation/Styles/Background layout/parallax-background"
+Signature: 2q/v5RY3bnsRopafDsfUSeBxxWoo8HDWFHjhVcJRyso=
+Modified: 638459345238384977
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Navigation\navigation-sidebar.yml
+ID: "be7d1f95-11a4-42f8-b60a-0c7b080c1680"
+Parent: "54dabbda-87ed-4c12-8bbf-c363b1bf0e35"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/hztl/hackathon/Presentation/Styles/Navigation/navigation-sidebar"
+Signature: SL9Nw+PZuFyvDVsTpL8ItErJ6eMJKHT2RJHBlCPiEcM=
+Modified: 638459345238643363
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Common\Button link style.yml
+ID: "6755e940-beea-420e-963b-6c928e8f3077"
+Parent: "5307f816-36d8-4ee1-9d9f-09d6abe7f653"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Common/Button link style
+Signature: fofUubtEmF0OfAs9oo0uAn+7UNmP4TsENdYL1SBLbJU=
+Modified: 638459345239324452
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Common\No borders.yml
+ID: "c53b59a3-2445-4107-9aa2-e559ed8f196b"
+Parent: "5307f816-36d8-4ee1-9d9f-09d6abe7f653"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Common/No borders
+Signature: U9XBld5eP5wzQCgcDcsazbXPneXidsdhcNRAf9ek6Lc=
+Modified: 638459345239219061
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Rich text\Custom bullet points.yml
+ID: "3655ee51-8b1e-4978-a997-7e2e3570f36a"
+Parent: "6e7121ea-5577-4eca-994c-619097a9f407"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Rich text/Custom bullet points
+Signature: IFBuLIcz5BwyFnokKaQz3oEWLfsw4n8gAikwRP+pZ4E=
+Modified: 638459345238901893
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Content alignment\Align content center.yml
+ID: "67a400d5-4dba-4327-bdf7-aee6f2f7cc48"
+Parent: "01ef5a80-c83a-4521-84a8-da1a72457cc3"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Content alignment/Align content center
+Signature: x+9a0Xm73gp+t5igO9db5QWWTb/rm0uHqDDyN5o7UVM=
+Modified: 638459345237905938
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Container\Bordered.yml
+ID: "ed604e9c-9867-4c1f-8b05-af403ef74d79"
+Parent: "75bab948-a613-40a8-9177-6fc43855ce23"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Container/Bordered
+Signature: mO3BWQjgnYCbsOtu65F4laTgMkhh39Ky5WmSEA6WqKE=
+Modified: 638459345239412363
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Spacing\Indent bottom.yml
+ID: "8e7c0775-cad4-4451-a869-07842fd9bbf3"
+Parent: "8eb79416-585c-4e75-b1a3-071067c984ad"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Spacing/Indent bottom
+Signature: k0Ur6Rjq7R0pS4jCmtdlmfxGJenz67F/qlOMBZlyvMY=
+Modified: 638459345237608407
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Content alignment\Align content left.yml
+ID: "ab7a5d74-b95b-48e6-b973-dc2680d7e19a"
+Parent: "01ef5a80-c83a-4521-84a8-da1a72457cc3"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Content alignment/Align content left
+Signature: ULC1jYKdS7AtD3nkqk6YrSs3l46WvDtnwlxvG8/uNCQ=
+Modified: 638459345237905938
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Content alignment\Align content right.yml
+ID: "cf925a1d-3d7c-41fd-a475-be1c39277349"
+Parent: "01ef5a80-c83a-4521-84a8-da1a72457cc3"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Content alignment/Align content right
+Signature: 7IJrzmRYOyq37gvRO6LqGeWfYI3dUpLu79BXVaiiPiw=
+Modified: 638459345238005303
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Link list\List vertical.yml
+ID: "94e6e2e0-ead6-4465-a1bc-f413404b3403"
+Parent: "9f645215-be69-4f26-9246-bf70802e6b7c"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Link list/List vertical
+Signature: z+Eun0Q4eJk/BlqlAJc7wZaR0jHRvUSFNlCdVi8tPu0=
+Modified: 638459345238835736
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Image\Image default size.yml
+ID: "e90498de-1849-4dc8-bf25-811f490d1dda"
+Parent: "336d2b31-720e-41aa-89cc-fabb8326c9b4"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Image/Image default size
+Signature: Kqq0KwxVhz5d1/pdFnTs2lL1CTTtt9KoPOXKLGLgHXo=
+Modified: 638459345239149687
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Navigation\navigation-fat.yml
+ID: "81021d78-bd1b-4ff8-8a6c-335162f96cea"
+Parent: "54dabbda-87ed-4c12-8bbf-c363b1bf0e35"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/hztl/hackathon/Presentation/Styles/Navigation/navigation-fat"
+Signature: M6uqo/H0F/IHOJ9NVqwTrHH5Re5/s1djkGoKd5KTbSw=
+Modified: 638459345238755187
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Navigation\navigation-main-horizontal.yml
+ID: "236552b0-23c3-4393-96f0-4b879b0c9c5d"
+Parent: "54dabbda-87ed-4c12-8bbf-c363b1bf0e35"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/hztl/hackathon/Presentation/Styles/Navigation/navigation-main-horizontal"
+Signature: YKa2gX4aImD3fiOl4bsIguvjOhpWkurWmp7c4ndrvfs=
+Modified: 638459345238460834
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Navigation\Sitemap navigation.yml
+ID: "fd5cad3b-958b-4db9-adc5-43dc1a1bb88c"
+Parent: "54dabbda-87ed-4c12-8bbf-c363b1bf0e35"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Navigation/Sitemap navigation
+Signature: wTBkmVu5cLZU3tDhYtnl7WpIpXITSNmdc/4BqYLQ8HE=
+Modified: 638459345238714950
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Navigation\navigation-main.yml
+ID: "f20c3cda-e424-423f-b423-00b9a5464633"
+Parent: "54dabbda-87ed-4c12-8bbf-c363b1bf0e35"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/hztl/hackathon/Presentation/Styles/Navigation/navigation-main"
+Signature: qqsCcbfBL9VA2AxAixF8/e+p5jm0oKZlCsq4DCSL49U=
+Modified: 638459345238448073
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Promo\Promo hero.yml
+ID: "e6515f89-2c65-4df3-b9f7-566582563c2d"
+Parent: "89ddb866-425c-4ea7-aa62-0a025aa75ecd"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Promo/Promo hero
+Signature: fEowelFYTg+KE50lMvXxm6V1JhY9jIBLIFd4IPtQOoQ=
+Modified: 638459345238980168
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Promo\Promo shadow.yml
+ID: "d1a4095c-cb6d-4cfe-a94e-6acf43e9f21f"
+Parent: "89ddb866-425c-4ea7-aa62-0a025aa75ecd"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Promo/Promo shadow
+Signature: ZpNXwdYQ9bTYa8gre3GmG6LVvHBWBfI2uWwlTMiv8pA=
+Modified: 638459345239025445
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Promo\promo-bottom-link.yml
+ID: "6e7f28a4-869c-46ae-ae37-db3f93f6e46f"
+Parent: "89ddb866-425c-4ea7-aa62-0a025aa75ecd"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/hztl/hackathon/Presentation/Styles/Promo/promo-bottom-link"
+Signature: jjfRdc5963pVb4jAAq4/F0msHK6g+VKS6USInxPvtgI=
+Modified: 638459345239075482
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Spacing\Indent side.yml
+ID: "849ffa59-65f9-4552-8d56-37ad04dcea83"
+Parent: "8eb79416-585c-4e75-b1a3-071067c984ad"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Spacing/Indent side
+Signature: nVAxzYsrU2EdKAOfk0s4lT5hrSLBO89Rcsgf05sU7kA=
+Modified: 638459345237641226
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Spacing\Indent top.yml
+ID: "7a538b89-d8bb-48a6-b4cf-1c41d9682b9b"
+Parent: "8eb79416-585c-4e75-b1a3-071067c984ad"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Spacing/Indent top
+Signature: Hp8B+JJw1xJUJPiBiHHFgWBpNHU5xZMeBQZkdZ6gbc4=
+Modified: 638459345237562914
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Data.yml
+ID: "abe127a7-4797-420a-85fb-5e2f633c08ba"
+Parent: "e7c9a104-97aa-43cf-8195-6cab5eef944b"
+Template: "a29d272e-9d48-453c-9e9d-b47585fa7f20"
+Path: /sitecore/content/hztl/hackathon/Data
+Signature: ywhg+NLhTHAdhvA2YvgrIjaoiHRVVkqVu1EFXckVT7k=
+Modified: 638459345235427060
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Settings\Site Grouping.yml
+ID: "843e3452-40cc-4270-95c2-5f07304bce45"
+Parent: "a928dd6a-531a-4d06-aade-2e8a19d70824"
+Template: "8357f958-9aaa-46db-8898-36448a96356f"
+Path: /sitecore/content/hztl/hackathon/Settings/Site Grouping
+Signature: jWOFRpS0doW/xgq2lzGQvjS0OSmkOP6UVLvTJyPk8C8=
+Modified: 638459345235946153
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Settings\Sitemap.yml
+ID: "a1a1afe2-6873-474f-b380-f1c4f8cb327e"
+Parent: "a928dd6a-531a-4d06-aade-2e8a19d70824"
+Template: "c71d8566-35c8-49b7-a84d-9d176e9cbd05"
+Path: /sitecore/content/hztl/hackathon/Settings/Sitemap
+Signature: V/R7hJyHEIYE4IY/ZsYpg305y4IrP2dxi/tY+yrjLHc=
+Modified: 638459345235976152
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Background color\Clean background.yml
+ID: "7b54bb9e-ba39-4611-953c-dbb176e654fe"
+Parent: "19bd75de-95a2-47b6-831d-9a4d8fc6a448"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Background color/Clean background
+Signature: OhHX81GSUpZDm59ghi9pKlzfMm+CSeSNuGU5QcvU9VI=
+Modified: 638459345238068793
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Home.yml
+ID: "f942a1d5-b131-4951-b77c-8cb86da7b090"
+Parent: "e7c9a104-97aa-43cf-8195-6cab5eef944b"
+Template: "0bed31d6-6781-4900-bbc0-b0196c2867c2"
+Path: /sitecore/content/hztl/hackathon/Home
+Signature: YSaJP+fsZo4Oah0R/1NFSTzTofcK4FMQr92eARmfk2w=
+Modified: 638459345235334149
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Headless Variants\Image\Default.yml
+ID: "c7f73d16-b3cd-4dca-a6e8-c1f02d24f0ae"
+Parent: "0ea72dfc-7dea-468c-aa82-333ed1065652"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/hztl/hackathon/Presentation/Headless Variants/Image/Default
+Signature: lyDAXNeuq/iSCCjl+hIVH1AtiDVIV9ie8+wzMZfELPg=
+Modified: 638459345237083961
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Available Renderings\Navigation.yml
+ID: "7845b63e-174a-4c59-b9c5-5f1d340cec2c"
+Parent: "096078ae-cf63-4696-bf96-f63d307c9dd4"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/hztl/hackathon/Presentation/Available Renderings/Navigation
+Signature: Z/IdBc5wLio1mOKxX88BTaoFg856iNjb3cispA8UzoA=
+Modified: 638459345236096454
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Settings.yml
+ID: "a928dd6a-531a-4d06-aade-2e8a19d70824"
+Parent: "e7c9a104-97aa-43cf-8195-6cab5eef944b"
+Template: "504998b1-3c9e-4ccd-a68c-abbc0829e7c7"
+Path: /sitecore/content/hztl/hackathon/Settings
+Signature: SjmfX00tfvn0rZLZKvw86LSVaTQEYKjZUwwwMeByoTw=
+Modified: 638459345235533328
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Headless Variants\PageContent.yml
+ID: "7cea01c6-03fa-4ffb-8354-63c748198c2e"
+Parent: "17dd1702-586e-4385-9bd3-3916920c95aa"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/hztl/hackathon/Presentation/Headless Variants/PageContent
+Signature: U0WX2CbIaUVGEFe7wQCgS7iyH9GqAJq/iTTyDW9UtmU=
+Modified: 638459345236323842
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Available Renderings.yml
+ID: "096078ae-cf63-4696-bf96-f63d307c9dd4"
+Parent: "f0f43c51-8838-4c35-9563-85b4d9a16bf8"
+Template: "26ec1d18-11b2-4dd9-8326-f6115f4fd7eb"
+Path: /sitecore/content/hztl/hackathon/Presentation/Available Renderings
+Signature: sCSHX8lFXy0habRVd2rH1xP3SgViYjF3Q32Zwu2BNdk=
+Modified: 638459345235573279
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Settings\Redirects.yml
+ID: "dc97fca8-a53e-41d2-b7c8-2e02beed7839"
+Parent: "a928dd6a-531a-4d06-aade-2e8a19d70824"
+Template: "c2dc4690-af44-48c7-bb21-90d1ad246732"
+Path: /sitecore/content/hztl/hackathon/Settings/Redirects
+Signature: xWORUYxgZx07rZ1cPvxb9G2HimegxNHxzDcRB0DI2dI=
+Modified: 638459345235873403
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Settings\Standard Values.yml
+ID: "13b160d6-3101-40d3-b792-e44ee73ab157"
+Parent: "a928dd6a-531a-4d06-aade-2e8a19d70824"
+Template: "ab987746-78b0-4773-a8de-b295c493b7a4"
+Path: /sitecore/content/hztl/hackathon/Settings/Standard Values
+Signature: BiJcE82iQNwLC8ze5MerMjalfrKRys4YaLJnw5R1bCo=
+Modified: 638459345236011314
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Available Renderings\Page Content.yml
+ID: "9b15be3b-482e-4be2-a176-fb78803a26df"
+Parent: "096078ae-cf63-4696-bf96-f63d307c9dd4"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/hztl/hackathon/Presentation/Available Renderings/Page Content
+Signature: 1GWDkBnjNlFhx6Cp3IL1G/wbsKytO0ZkWYMhI3bpKp8=
+Modified: 638459345236137573
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Headless Variants\LinkList.yml
+ID: "a5b1c688-14d3-4920-9b3c-13485f8332d0"
+Parent: "17dd1702-586e-4385-9bd3-3916920c95aa"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/hztl/hackathon/Presentation/Headless Variants/LinkList
+Signature: IM41+MMluFkZQtVk7ADvGQdlwGct2osijEdIiy/2udA=
+Modified: 638459345236258657
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Headless Variants\Title.yml
+ID: "18126b42-275a-49e2-a184-e16875c5805d"
+Parent: "17dd1702-586e-4385-9bd3-3916920c95aa"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/hztl/hackathon/Presentation/Headless Variants/Title
+Signature: UGZh/3pXqTpA0j25KVweTNklv6ExH/pkH9p285HysUA=
+Modified: 638459345236431749
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Placeholder Settings\Partial Design.yml
+ID: "2d7cf983-849c-4c15-8ec8-1e5ef10f655c"
+Parent: "aaf33e91-7fd1-4a89-8951-b2f50d747cc6"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: /sitecore/content/hztl/hackathon/Presentation/Placeholder Settings/Partial Design
+Signature: CSbHOSLIQFgEB0eE0XHBnwUIvZYY0ec1AgLY1qWN5EI=
+Modified: 638459345236491675
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Rich text.yml
+ID: "6e7121ea-5577-4eca-994c-619097a9f407"
+Parent: "b11d3ea7-8b5f-4f66-b015-d75492667c4b"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Rich text
+Signature: eP3kgs/sbiqYWJT7m7MQk5nj4cA0MPvo/Ez90DBudhs=
+Modified: 638459345236702088
+---
+File: |
+  C:\Users\vthakur\Desktop\Hackathon24\hackathon\serialization\serialization\site-hackathon\hackathon\Presentation\Styles\Spacing.yml
+ID: "8eb79416-585c-4e75-b1a3-071067c984ad"
+Parent: "b11d3ea7-8b5f-4f66-b015-d75492667c4b"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/hztl/hackathon/Presentation/Styles/Spacing
+Signature: mWwxGIc+OXrj4tFipgAH+kqEa8981UXT6GcnkL95xWc=
+Modified: 638459345236542111

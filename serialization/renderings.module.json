@@ -1,0 +1,14 @@
+{
+    "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Renderings",
+    "items": {
+        "includes": [
+            {
+                "name": "renderings-psp-feature",
+                "path": "/sitecore/layout/Renderings/Feature/Hackathon",
+                "scope": "ItemAndDescendants",
+                "allowedPushOperations": "CreateAndUpdate"
+            }
+        ]
+    }
+}
