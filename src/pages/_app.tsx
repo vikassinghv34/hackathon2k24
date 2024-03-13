@@ -1,7 +1,6 @@
 import type { AppProps } from 'next/app';
 import { I18nProvider } from 'next-localization';
 import { SitecorePageProps } from 'lib/page-props';
-import Bootstrap from 'src/Bootstrap';
 
 import '../../node_modules/tailwindcss/tailwind.css';
 import 'assets/main.scss';
@@ -11,7 +10,6 @@ function App({ Component, pageProps }: AppProps<SitecorePageProps>): JSX.Element
 
   return (
     <>
-      <Bootstrap {...pageProps} />
       {/*
         // Use the next-localization (w/ rosetta) library to provide our translation dictionary to the app.
         // Note Next.js does not (currently) provide anything for translation, only i18n routing.
