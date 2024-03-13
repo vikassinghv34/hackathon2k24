@@ -1,0 +1,32 @@
+{
+  "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Templates",
+  "items": {
+    "includes": [
+      {
+        "name": "templates-hackathon-foundation",
+        "path": "/sitecore/templates/Foundation/Hackathon",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "templates-hackathon-feature",
+        "path": "/sitecore/templates/Feature/Hackathon",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "templates-hackathon-project",
+        "path": "/sitecore/templates/Project/Hackathon",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      }
+    ]
+  },
+  "leprechaun": {
+    "configuration": {
+      "@extends": "PetSuppliesPlus",
+      "@name": "Templates"
+    }
+  }
+}

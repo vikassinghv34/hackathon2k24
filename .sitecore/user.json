@@ -1,0 +1,17 @@
+{
+  "endpoints": {
+    "default": {
+      "allowWrite": true,
+      "host": "https://hackathonsc.dev.local/",
+      "authority": "https://hackathonidentityserver.dev.local/",
+      "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IkEyNTAxOTBEQjVEMzZGMzYxM0Q0NDlGMzBBQzM2NDFDQTAwNzdGMDhSUzI1NiIsIng1dCI6Im9sQVpEYlhUYnpZVDFFbnpDc05rSEtBSGZ3ZyIsInR5cCI6ImF0K2p3dCJ9.eyJpc3MiOiJodHRwczovL2hhY2thdGhvbmlkZW50aXR5c2VydmVyLmRldi5sb2NhbCIsIm5iZiI6MTcxMDMyNDE3NywiaWF0IjoxNzEwMzI0MTc3LCJleHAiOjE3MTAzMjc3NzcsImF1ZCI6WyJzaXRlY29yZS5wcm9maWxlLmFwaSIsImh0dHBzOi8vaGFja2F0aG9uaWRlbnRpdHlzZXJ2ZXIuZGV2LmxvY2FsL3Jlc291cmNlcyJdLCJzY29wZSI6WyJzaXRlY29yZS5wcm9maWxlLmFwaSIsIm9mZmxpbmVfYWNjZXNzIl0sImFtciI6WyJwd2QiXSwiY2xpZW50X2lkIjoiRGV2aWNlIiwic3ViIjoiNGRlZWYwMjEyNDBkNDJiZThjYjZjM2ZhM2UwMTM5NGUiLCJhdXRoX3RpbWUiOjE3MTAzMjQxNTgsImlkcCI6ImxvY2FsIiwibmFtZSI6InNpdGVjb3JlXFxBZG1pbiIsImVtYWlsIjoiIiwiaHR0cDovL3d3dy5zaXRlY29yZS5uZXQvaWRlbnRpdHkvY2xhaW1zL2lzQWRtaW4iOiJUcnVlIiwic2lkIjoiMEY2OUI5QkUxN0JENjgxQTRDNDNGQzhBRjJCODhDMTgiLCJqdGkiOiIyNkRGMDFBMkVFQTEwNDVFQ0FEQTk3Mjk2MUM0Q0M1QiJ9.b0ZAJNK8p-Nv9WCPfpH_Gtcf6xYVrGOScgg6Au8i-UsBDGZYmm3rN7f1v72-6a0EELELqZ1Lr_ySEFlntUd4J6O2-LvhCj2oZxDUMpGR6DyCBuHLfrbhI6giqLjjmOnpoICZAglgcwGfdX4pzGHtqitZURFxUeZaV2ouRCPq8QN-K186q3IqwCsSm8g1oeUtNJBm-zDJK5yT8SEBgMUjvtDsLChODtuAGSaA5ulRcfUg6HpcTeP_lpaRkhwqHtas3tkt5ypYNORcXT-TNRFrVjmoh5KjkQUJgKxfzd4lHJ1Dasd7hloIjIX0dLscF1hPFMCDLBGMVWF3UfdzVGnmOg",
+      "refreshToken": "CAB81D67874A00A85399FA6544D74E40472EBAA99EB7CBF3F43D9D0C518FC5F2-1",
+      "expiresIn": 3600,
+      "lastUpdated": "2024-03-13T10:02:57.5668715Z",
+      "clientId": "Device",
+      "variables": {}
+    }
+  },
+  "$schema": "./schemas/UserConfiguration.schema.json",
+  "defaultEndpoint": "default"
+}
