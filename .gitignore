@@ -1,13 +1,14 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
+/models/*
 
 # may contain OAuth secrets, do not commit
 .sitecore/user.json
 
 # NuGet cache for Sitecore CLI
-.sitecore/package-cache/
+/.sitecore/package-cache/
 
 # Ephemeral index caches used by serialization, do not commit
-.scindex
+/serialization/**/.scindex
 
 
 # dependencies
@@ -43,4 +44,3 @@ scjssconfig.json
 
 # vercel
 .vercel
-src/models/*.ts
