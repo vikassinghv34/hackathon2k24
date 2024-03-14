@@ -20,7 +20,7 @@ export const Default = (props: RichTextProps): JSX.Element => {
 
   return (
     <div className={`component rich-text ${props.params.styles}`} id={id ? id : undefined}>
-      <div className="component-content">{text}</div>
+      <div className="component-content p-10">{text}</div>
     </div>
   );
 };
