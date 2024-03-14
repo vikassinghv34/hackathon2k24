@@ -25,7 +25,7 @@
   },
   "leprechaun": {
     "configuration": {
-      "@extends": "PetSuppliesPlus",
+      "@extends": "Hackathon",
       "@name": "Templates"
     }
   }
