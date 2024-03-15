@@ -8,7 +8,7 @@
 /.sitecore/package-cache/
 
 # Ephemeral index caches used by serialization, do not commit
-/serialization/**/**/.scindex
+/serialization/*/*/.scindex
 
 
 # dependencies
