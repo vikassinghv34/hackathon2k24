@@ -1,5 +1,5 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
-/models/*.ts
+./models/*.ts
 
 # may contain OAuth secrets, do not commit
 .sitecore/user.json
@@ -8,7 +8,7 @@
 /.sitecore/package-cache/
 
 # Ephemeral index caches used by serialization, do not commit
-/serialization/**/.scindex
+/serialization/**/**/.scindex
 
 
 # dependencies
