@@ -5,7 +5,7 @@ const robotsPlugin = (nextConfig = {}) => {
   return Object.assign({}, nextConfig, {
     async rewrites() {
       return [
-        ...await nextConfig.rewrites(),
+        ...(await nextConfig.rewrites()),
         // robots route
         {
           source: '/robots.txt',

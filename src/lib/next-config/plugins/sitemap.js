@@ -5,11 +5,11 @@ const sitemapPlugin = (nextConfig = {}) => {
   return Object.assign({}, nextConfig, {
     async rewrites() {
       return [
-        ...await nextConfig.rewrites(),
+        ...(await nextConfig.rewrites()),
         // sitemap route
         {
           source: '/sitemap:id([\\w-]{0,}).xml',
-          destination: '/api/sitemap'
+          destination: '/api/sitemap',
         },
       ];
     },
