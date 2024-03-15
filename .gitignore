@@ -12,6 +12,7 @@
 /serialization/serialization/**/.scindex
 serialization/serialization/**/.scindex
 /serialization/**/**/.scindex
+.scindex
 # dependencies
 /node_modules
 
