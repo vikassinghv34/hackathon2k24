@@ -11,8 +11,10 @@ const NotFound = (): JSX.Element => (
     <div style={{ padding: 10 }}>
       <div className="container mx-auto my-auto">
         <h1 className="text-[50px] font-bold italic">Page not found</h1>
-        <p className='text-[30px] italic'>This page does not exist.</p>
-        <a className='text-[20px]' href="/">Go to the Home page</a>
+        <p className="text-[30px] italic">This page does not exist.</p>
+        <a className="text-[20px]" href="/">
+          Go to the Home page
+        </a>
       </div>
     </div>
   </>
