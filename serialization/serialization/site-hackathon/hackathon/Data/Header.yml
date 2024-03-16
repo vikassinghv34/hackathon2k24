@@ -1,0 +1,23 @@
+﻿---
+ID: "881de324-ee12-437d-8126-a805044324a9"
+Parent: "abe127a7-4797-420a-85fb-5e2f633c08ba"
+Template: "490a247c-262d-487a-aad2-53c7ed0b5068"
+Path: /sitecore/content/hztl/hackathon/Data/Header
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240316T082519Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ef5e6027-ac28-45fa-ad26-3a8f744ee053"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240316T082519Z
