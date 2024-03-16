@@ -6,12 +6,16 @@ import Head from 'next/head';
 const NotFound = (): JSX.Element => (
   <>
     <Head>
-      <title>404: NotFound</title>
+      <title className="text-[60px]">404: NotFound</title>
     </Head>
     <div style={{ padding: 10 }}>
-      <h1>Page not found</h1>
-      <p>This page does not exist.</p>
-      <a href="/">Go to the Home page</a>
+      <div className="container mx-auto my-auto">
+        <h1 className="text-[50px] font-bold italic">Page not found</h1>
+        <p className="text-[30px] italic">This page does not exist.</p>
+        <a className="text-[20px]" href="/">
+          Go to the Home page
+        </a>
+      </div>
     </div>
   </>
 );
