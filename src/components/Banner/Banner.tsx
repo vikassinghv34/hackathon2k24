@@ -58,7 +58,7 @@ const Banner = ({ fields }: BannerProps) => {
                   <Text field={fields.primarybannerCTAtitle}></Text>
                 </Link>
                 <Link
-                  className="bg-yellow-400 text-white w-44 py-3 hover:bg-transparent transition duration-500 border-2 hover:text-yellow-400 border-yellow-400"
+                  className="bg-black text-white w-44 py-3 hover:bg-transparent transition duration-500 border-2 hover:text-white border-black hover:border-white"
                   field={fields.secondarybannerCTAlink}
                 >
                   <Text field={fields.secondarybannerCTAtitle}></Text>
