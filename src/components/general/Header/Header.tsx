@@ -1,9 +1,10 @@
 import React, { useEffect, useState } from 'react';
 import { NextImage } from '@sitecore-jss/sitecore-jss-nextjs';
 import Link from 'next/link';
+import { Root, NavigationLink } from './Header.interface';
 
-export default function Header(props: any) {
-  console.log('Header:', props?.fields?.NavigationLinks);
+export default function Header(props: Root) {
+  console.log('Header:', props?.fields);
   const headerProps = props?.fields;
   const headerNavigations = props?.fields?.NavigationLinks;
 
@@ -73,7 +74,7 @@ export default function Header(props: any) {
             </button>
           ) : (
             <ul className="items-center hidden space-x-3 md:flex">
-              {headerNavigations?.map((navData: any, idx: number) => (
+              {headerNavigations?.map((navData: NavigationLink, idx: number) => (
                 <Link
                   key={idx}
                   className={`text-white pl-3 font-medium text-${isMobile ? 'md' : 'lg'}`}
@@ -88,8 +89,8 @@ export default function Header(props: any) {
       </header>
       {isMobile && isMenuOpen && (
         <ul className="py-2">
-          {headerNavigations?.map((navData: any, idx: number) => (
-            <li className="px-4">
+          {headerNavigations?.map((navData: NavigationLink, idx: number) => (
+            <li key={idx} className="px-4">
               <Link key={idx} className="text-white text-md" href={navData?.url}>
                 {navData?.name}
               </Link>
