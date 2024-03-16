@@ -27,22 +27,22 @@ export default function Header(props: Root) {
 
   return (
     <div className="bg-black">
-      <header className={`py-${isMobile ? '2' : '6'} dark:bg-gray-800 dark:text-gray-100`}>
+      <header className={`py-${isMobile ? '2' : '6'} bg-black`}>
         <div className="container flex justify-between h-16 mx-auto">
           <Link rel="noopener noreferrer" href="/" className="flex items-center p-2">
             {isMobile ? (
               <NextImage
                 field={headerProps?.MobileLogo?.value}
                 alt="MobileLogo"
-                height={100}
-                width={100}
+                height={80}
+                width={80}
               />
             ) : (
               <NextImage
                 field={headerProps?.HeaderLogo?.value}
                 alt="desktopLogo"
-                height={150}
-                width={150}
+                height={130}
+                width={130}
               />
             )}
           </Link>
