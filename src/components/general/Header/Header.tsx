@@ -34,15 +34,15 @@ export default function Header(props: Root) {
               <NextImage
                 field={headerProps?.MobileLogo?.value}
                 alt="MobileLogo"
-                height={100}
-                width={100}
+                height={80}
+                width={80}
               />
             ) : (
               <NextImage
                 field={headerProps?.HeaderLogo?.value}
                 alt="desktopLogo"
-                height={150}
-                width={150}
+                height={130}
+                width={130}
               />
             )}
           </Link>
