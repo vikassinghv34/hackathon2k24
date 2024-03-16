@@ -52,13 +52,14 @@ const Banner = ({ fields }: BannerProps) => {
               </div>
               <div className="flex justify-center flex-col sm:flex-row text-center md:justify-start items-center gap-3">
                 <Link
-                  className="bg-white text-black w-44 py-3 border-2 border-white hover:bg-transparent hover:text-white transition duration-500"
+                  className="bg-white text-black w-44 py-3 border-2 border-black hover:border-white  hover:bg-transparent hover:text-white transition duration-500"
                   field={fields.primarybannerCTAlink}
                 >
                   <Text field={fields.primarybannerCTAtitle}></Text>
                 </Link>
                 <Link
-                  className="bg-black text-white w-44 py-3 hover:bg-transparent transition duration-500 border-2 hover:text-white border-black hover:border-white"
+                  className="bg-black text-white w-44 py-3 hover:bg-transparent transition duration-500 border-2 hover:text-white
+                   border-white hover:border-white"
                   field={fields.secondarybannerCTAlink}
                 >
                   <Text field={fields.secondarybannerCTAtitle}></Text>
