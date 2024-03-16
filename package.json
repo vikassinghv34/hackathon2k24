@@ -40,6 +40,7 @@
     "next-localization": "^0.12.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-icons": "^5.0.1",
     "sass": "^1.52.3",
     "sass-alias": "^1.0.5"
   },

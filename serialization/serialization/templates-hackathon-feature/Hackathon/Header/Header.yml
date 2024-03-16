@@ -4,6 +4,9 @@ Parent: "0870a5c5-fa3b-4b58-93a8-c44ae92f1bb4"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
 Path: /sitecore/templates/Feature/Hackathon/Header/Header
 SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/document_header.png
 - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
   Hint: __Base template
   Value: |
@@ -30,11 +33,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5d90b617-a186-4c48-9c64-c993846ce710"
+      Value: "e45e8bdf-50bf-46a3-80e0-280fb9cc0542"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240314T183540Z
+      Value: 20240316T082301Z
