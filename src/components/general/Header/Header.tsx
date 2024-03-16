@@ -26,8 +26,8 @@ export default function Header(props: Root) {
   };
 
   return (
-    <div className="bg-black">
-      <header className={`py-${isMobile ? '2' : '8'}`}>
+    <div className="bg-black w-full fixed top-0 z-50">
+      <header className={`py-${isMobile ? '2' : '8'} `}>
         <div className="container flex justify-between h-16 mx-auto">
           <Link rel="noopener noreferrer" href="/" className="flex items-center p-2">
             {isMobile ? (
