@@ -20,6 +20,12 @@
         "path": "/sitecore/templates/Project/Hackathon",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "templates-hackathon-project-hztl",
+        "path": "/sitecore/templates/Project/hztl",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateUpdateAndDelete"
       }
     ]
   },

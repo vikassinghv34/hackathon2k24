@@ -1,8 +1,8 @@
 ﻿---
-ID: "4b37d3cb-4125-4daa-ad95-6cf2db5e00b5"
-Parent: "f63f1b06-042c-42bd-afee-3c2654bd959f"
-Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
-Path: /sitecore/content/hztl/hackathon/Data/Texts/Trial RTE
+ID: "70af4fe0-953a-41f4-a5d7-0514e2e3aaae"
+Parent: "9ec765ef-e3a5-4a6d-a8cf-820bd63a3bea"
+Template: "9ec765ef-e3a5-4a6d-a8cf-820bd63a3bea"
+Path: /sitecore/templates/Project/hztl/Headless Site/__Standard Values
 Languages:
 - Language: en
   Versions:
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240313T192944Z
+      Value: 20240312T184430Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -19,16 +19,13 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\Admin
-    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
-      Hint: Text
-      Value: <h1><strong>Code Crafters Coming Soon ...</strong></h1>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "260c203c-d51c-4aa0-86ae-a7e004f82362"
+      Value: "27d078ff-af06-429a-aca9-0f490720cac6"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240316T055346Z
+      Value: 20240312T184430Z
