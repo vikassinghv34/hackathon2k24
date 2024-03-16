@@ -1,8 +1,15 @@
 ﻿---
-ID: "896f6191-4e06-41b1-b1f0-bfca30f99eb8"
-Parent: "abe127a7-4797-420a-85fb-5e2f633c08ba"
-Template: "f7a45276-87f1-4ea5-bf25-e3c7cb7aa993"
-Path: /sitecore/content/hztl/hackathon/Data/Images
+ID: "2a7506c4-8c4a-4a5b-8d26-0786eb86686a"
+Parent: "1cdbd8d9-e60c-4de8-a3eb-b3c81b931557"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Hackathon/Header/Header/Header/CTA
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: General Link
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
 Languages:
 - Language: en
   Versions:
@@ -10,7 +17,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240312T184510Z
+      Value: 20240316T065844Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -21,11 +28,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "dc8f72d9-5361-4bf1-bc97-eea9d32d1254"
+      Value: "1a37a2ae-9f13-4e29-aaa3-dbcf7ec282e3"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240312T184510Z
+      Value: 20240316T070142Z
